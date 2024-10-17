@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Johnson",
+        "Age": 25,
+        "Salary": 15000,
+        "Department": "Teacher"
+    },
+    {
+        "Name": "Virginia",
+        "Age": 30,
+        "Salary": 25000,
+        "Department": "Bank Assistant"
+    },
+    {
+        "Name": "Shelly",
+        "Age": 36,
+        "Salary": 30000,
+        "Department": "Professor"
+    }
+]
