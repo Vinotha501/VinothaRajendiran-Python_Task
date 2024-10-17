@@ -1,0 +1,9 @@
+2024-10-17 17:27:15,854 - WARNING - Empty row encountered!
+2024-10-17 17:27:15,854 - WARNING - Empty row encountered!
+2024-10-17 17:27:15,854 - WARNING - Empty row encountered!
+2024-10-17 17:27:15,854 - WARNING - Empty row encountered!
+2024-10-17 17:27:15,854 - WARNING - Empty row encountered!
+2024-10-17 17:27:15,854 - WARNING - Empty row encountered!
+2024-10-17 17:27:15,854 - WARNING - Empty row encountered!
+2024-10-17 17:27:15,854 - ERROR - ValueError: Could not process row['10', '15', 'error']. Exception: invalid literal for int() with base 10: 'error'
+2024-10-17 17:27:15,854 - ERROR - ValueError: Could not process row['hello', 'world', '3']. Exception: invalid literal for int() with base 10: 'hello'
